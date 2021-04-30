@@ -32,13 +32,3 @@ const ArrowNext = (props) => {
 }
 
 export default ArrowNext;
-
-// function SampleNextArrow(props) {
-//     const { className, style, onClick } = props;
-//     return (
-//       <div
-//         className={className}
-//         style={{ ...style, display: "block", background: "red" }}
-//       />
-//     );
-// }
